@@ -1,47 +1,25 @@
+# Unity generated #
+Temp/
+Library/
 
-#ignore thumbnails created by windows
-Thumbs.db
-#Ignore files build by Visual Studio
-*.obj
-*.exe
-*.pdb
-*.user
-*.aps
-*.pch
-*.vspscc
-*_i.c
-*_p.c
-*.ncb
-*.suo
-*.tlb
-*.tlh
-*.bak
-*.cache
-*.ilk
-*.log
-[Bb]in
-[Dd]ebug*/
-*.lib
-*.sbr
+# Visual studio / Monodevelop #
+ExportedObj/
 obj/
-[Rr]elease*/
-_ReSharper*/
-[Tt]est[Rr]esult*
-# Unity3D .gitignore file.
-# Store this file at the root of your local repository.
-.DS_Store
-Library/AssetImportState
-Library/AssetServerCacheV3
-Library/FailedAssetImports.txt
-Library/ScriptAssemblies
-Library/ScriptMapper
-Library/assetDatabase3
-Library/cache
-Library/expandedItems
-Library/metadata
-Library/previews
-Library/guidmapper
-Temp
-*.csproj
+*.svd
+*.userprefs
+/*.csproj
 *.pidb
-*.sln
+*.suo
+/*.sln
+*.user
+*.unityproj
+*.booproj
+
+# OS generated #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
